@@ -1,1 +1,3 @@
-# Gopika1_sid
+Your Name: Gopika
+Project Title: Lab 3
+Student id: 8910034
